@@ -1,0 +1,3 @@
+class AppDialogs {
+  void showLogoutDialog() {}
+}
