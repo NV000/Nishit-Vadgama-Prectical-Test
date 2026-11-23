@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="nishit_vadgama"
+        android:label="Service Booking App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
